@@ -73,6 +73,6 @@ Predicted disease: Tomato___Late_blight (Confidence: 92.4%)
 **Sindhupriya Kancharla**
 Data Scientist & ML Intern
 📧 [sindhupriyakancharla04@gmail.com](mailto:sindhupriyakancharla04@gmail.com)
-🔗 [GitHub](https://github.com/KancharlaSindhupriya) | [LinkedIn](https://linkedin.com/in/sindhupriyakancharla)
+🔗 [GitHub](https://github.com/KancharlaSindhupriya) | [LinkedIn](https://www.linkedin.com/in/sindhu-priya-kancharla-0b6666217/)
 
 
